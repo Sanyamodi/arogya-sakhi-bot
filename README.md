@@ -1,4 +1,4 @@
-![Arogya-Sakhi logo](https://github.com/Jadhav-Krishna/arogya-sakhi-bot/blob/main/arogya_sakhi.png)
+![Arogya-Sakhi logo](https://github.com/Sanyamodi/arogya-sakhi-bot/blob/main/arogya_sakhi.png?raw=true)
 
 # Arogya-Sakhi Telegram Bot 🏥
 

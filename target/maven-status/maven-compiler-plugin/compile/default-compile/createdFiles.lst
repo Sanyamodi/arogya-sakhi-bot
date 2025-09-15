@@ -1,0 +1,16 @@
+com\arogyasakhi\repository\HealthConsultationRepository.class
+com\arogyasakhi\repository\UserSessionRepository.class
+com\arogyasakhi\config\MongoConfig.class
+com\arogyasakhi\service\LanguageService.class
+com\arogyasakhi\repository\UserProfileRepository.class
+com\arogyasakhi\model\UserProfile$ProfileStatus.class
+com\arogyasakhi\ArogyaSakhiApplication.class
+com\arogyasakhi\ArogyaSakhiBot.class
+com\arogyasakhi\service\GeminiService.class
+com\arogyasakhi\controller\TestController.class
+com\arogyasakhi\service\UserSessionService.class
+com\arogyasakhi\controller\HealthCheckController.class
+com\arogyasakhi\model\UserProfile.class
+com\arogyasakhi\model\UserSession.class
+com\arogyasakhi\model\HealthConsultation.class
+com\arogyasakhi\service\UserProfileService.class

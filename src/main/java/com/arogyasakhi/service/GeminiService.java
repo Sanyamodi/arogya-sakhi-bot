@@ -121,7 +121,7 @@ public class GeminiService {
         generationConfig.put("temperature", 0.3); // Lower temperature for more consistent medical advice
         generationConfig.put("topK", 40);
         generationConfig.put("topP", 0.95);
-        generationConfig.put("maxOutputTokens", 2048);
+        generationConfig.put("maxOutputTokens", 500);
         requestBody.put("generationConfig", generationConfig);
         
         return requestBody;
